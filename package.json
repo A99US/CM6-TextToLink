@@ -1,0 +1,25 @@
+{
+  "name": "cm6-texttolink",
+  "version": "1.0.0",
+  "description": "CodeMirror 6 Extension to add a clickable link icon next to a valid URL",
+  "main": "texttolink.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A99US/CM6-TextToLink.git"
+  },
+  "keywords": [
+    "codemirror-6",
+    "codemirror6",
+    "texttolink",
+    "hyperlink"
+  ],
+  "author": "A99US <agus.lupin@gmail.com> (Agus Setiawan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/A99US/CM6-TextToLink/issues"
+  },
+  "homepage": "https://github.com/A99US/CM6-TextToLink#readme"
+}
